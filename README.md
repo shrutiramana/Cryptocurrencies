@@ -35,10 +35,9 @@ we create a 3D-Scatter with the PCA data and the clusters.
 
 A 2D-plot showing the clusters , Create a hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply".Showing the 532 tradable cryptocurrencies, based on their Class for the 4 K_mean clusters obtained above. 
 
+<img width="1060" alt="image" src="https://user-images.githubusercontent.com/98556229/184788770-da5ab0dd-bbf7-4fc3-acec-aa5fe849374d.png">
 
-<img width="1041" alt="image" src="https://user-images.githubusercontent.com/98556229/184788156-9b09819e-2422-47f5-b712-da094f59f097.png">
 
 Also shows the 532 tradable cryptocurrencies in the form of a table using hvplot.table.
 
-<img width="947" alt="image" src="https://user-images.githubusercontent.com/98556229/184788353-095146e7-a023-43e2-ad3f-ebb6e6cf02f3.png">
-
+<img width="1163" alt="image" src="https://user-images.githubusercontent.com/98556229/184788736-768f5caa-3641-46ba-9c1a-3464ba37caa4.png">
